@@ -9,8 +9,9 @@ const About = () => {
 			</div>
 			<h1 className='text-center text-4xl mt-4 font-semibold'>Madison</h1>
 			<p className='mt-6 text-center text-xl'>
-				I'm a web developer with a passion for creating dynamic and interactive web applications. I specialize in using JavaScript, React,
-				and other modern web technologies to build scalable and user-friendly websites and applications.
+				Hello! My name is Madison. I'm a web developer with a passion for creating dynamic and interactive web applications. I specialize in
+				using JavaScript, React, and other modern web technologies to build scalable and user-friendly websites and applications. Click on
+				each component in the navigation bar to learn more and check out my previous works in the portfolio section.
 			</p>
 		</div>
 	);
