@@ -2,30 +2,31 @@
 
 import React from 'react';
 import './Navigation.css';
+import { NavLink } from 'react-router-dom';
 
 function Navigation() {
 	return (
 		<nav className='navigation'>
 			<ul className='flex justify-around py-4'>
 				<li className='nav-item'>
-					<a href='#about' className='text-blue-500 hover:text-blue-800'>
+					<NavLink to='/' className='text-white hover:text-gray-200' end>
 						About Me
-					</a>
+					</NavLink>
 				</li>
 				<li className='nav-item'>
-					<a href='#portfolio' className='text-blue-500 hover:text-blue-800'>
+					<NavLink to='/portfolio' className='text-white hover:text-gray-200'>
 						Portfolio
-					</a>
+					</NavLink>
 				</li>
 				<li className='nav-item'>
-					<a href='#contact' className='text-blue-500 hover:text-blue-800'>
+					<NavLink to='/contact' className='text-white hover:text-gray-200'>
 						Contact
-					</a>
+					</NavLink>
 				</li>
 				<li className='nav-item'>
-					<a href='#resume' className='text-blue-500 hover:text-blue-800'>
+					<NavLink to='/resume' className='text-white hover:text-gray-200'>
 						Resume
-					</a>
+					</NavLink>
 				</li>
 			</ul>
 		</nav>
