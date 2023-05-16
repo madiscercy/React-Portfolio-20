@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a366b5d7.css",
-    "main.js": "/static/js/main.3afd9e38.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/simultaneous-searches.png": "/static/media/simultaneous-searches.f5522bec2cfc6f93a970.png",
-    "static/media/e-commerce.png": "/static/media/e-commerce.58499cba61514e153e8d.png",
-    "static/media/bits-and-bytes.png": "/static/media/bits-and-bytes.adedd7a99464a4d3a4a4.png",
-    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.559bbddf544c85ab4e11.png",
-    "static/media/note-taker.png": "/static/media/note-taker.663cea58a3f71a1f1ee3.png",
-    "static/media/code-quiz.png": "/static/media/code-quiz.1aa049141f4e4f3cffe0.png",
-    "static/media/Madison-Scercy.pdf": "/static/media/Madison-Scercy.803a3a5e7f7956c426fe.pdf",
-    "static/media/madi.png": "/static/media/madi.a3f9796f39bb9372e115.png",
-    "index.html": "/index.html",
-    "main.a366b5d7.css.map": "/static/css/main.a366b5d7.css.map",
-    "main.3afd9e38.js.map": "/static/js/main.3afd9e38.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/React-Portfolio-20/static/css/main.a15480d5.css",
+    "main.js": "/React-Portfolio-20/static/js/main.e81d6827.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio-20/static/js/787.a2cb61a6.chunk.js",
+    "static/media/simultaneous-searches.png": "/React-Portfolio-20/static/media/simultaneous-searches.f5522bec2cfc6f93a970.png",
+    "static/media/e-commerce.png": "/React-Portfolio-20/static/media/e-commerce.58499cba61514e153e8d.png",
+    "static/media/bits-and-bytes.png": "/React-Portfolio-20/static/media/bits-and-bytes.adedd7a99464a4d3a4a4.png",
+    "static/media/weather-dashboard.png": "/React-Portfolio-20/static/media/weather-dashboard.559bbddf544c85ab4e11.png",
+    "static/media/note-taker.png": "/React-Portfolio-20/static/media/note-taker.663cea58a3f71a1f1ee3.png",
+    "static/media/code-quiz.png": "/React-Portfolio-20/static/media/code-quiz.1aa049141f4e4f3cffe0.png",
+    "static/media/Madison-Scercy.pdf": "/React-Portfolio-20/static/media/Madison-Scercy.803a3a5e7f7956c426fe.pdf",
+    "static/media/madi.png": "/React-Portfolio-20/static/media/madi.a3f9796f39bb9372e115.png",
+    "index.html": "/React-Portfolio-20/index.html",
+    "main.a15480d5.css.map": "/React-Portfolio-20/static/css/main.a15480d5.css.map",
+    "main.e81d6827.js.map": "/React-Portfolio-20/static/js/main.e81d6827.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio-20/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a366b5d7.css",
-    "static/js/main.3afd9e38.js"
+    "static/css/main.a15480d5.css",
+    "static/js/main.e81d6827.js"
   ]
 }
