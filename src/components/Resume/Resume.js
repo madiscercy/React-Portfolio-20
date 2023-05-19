@@ -3,8 +3,8 @@ import pdf from '../../Madison-Scercy.pdf';
 
 const Resume = () => {
 	return (
-		<div className='container mx-auto px-4 py-8'>
-			<h1 className='text-center text-4xl font-semibold mb-4'>Resume</h1>
+		<div className='container mx-auto px-4'>
+			<h1 className='text-center text-4xl mt-4 font-semibold'>Resume</h1>
 
 			<div className='mt-8'>
 				<h2 className='text-2xl font-semibold mb-2'>Proficiencies</h2>

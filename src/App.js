@@ -7,6 +7,7 @@ import Contact from './components/Contact/Contact';
 import Resume from './components/Resume/Resume';
 import Footer from './components/Footer/Footer';
 import './output.css';
+import './App.css';
 
 function App() {
 	return (
@@ -18,7 +19,7 @@ function App() {
 				<Route path='/contact' element={<Contact />} />
 				<Route path='/resume' element={<Resume />} />
 			</Routes>
-			<Footer className='mt-auto' />
+			<Footer />
 		</Router>
 	);
 }

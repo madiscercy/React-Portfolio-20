@@ -1,10 +1,11 @@
 import React from 'react';
 import githubLogo from '../../images/github-logo.png';
 import linkedinLogo from '../../images/linkedin.png';
+import '../../App.css';
 
 const Footer = () => {
 	return (
-		<footer className='flex items-center justify-center h-16 bg-red-200 text-white'>
+		<footer className='flex items-center justify-center h-16 bg-red-200 text-white fixed inset-x-0 bottom-0'>
 			<a href='https://github.com/madiscercy' target='_blank' rel='noopener noreferrer'>
 				<img src={githubLogo} alt='Github Logo' className='h-8 w-8' />
 			</a>
