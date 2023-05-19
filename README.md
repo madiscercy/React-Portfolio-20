@@ -15,7 +15,7 @@ The website also features a fixed navigation bar at the top of the screen and a 
 
 ## Usage
 
-To use the website, simply navigate to the deployed link (https://madiscercy.github.io/). From there, you can click on the navigation links to move through the different sections of the website.
+To use the website, simply navigate to the deployed link [(https://madiscercy.github.io/)](https://madiscercy.github.io/React-Portfolio-20/). From there, you can click on the navigation links to move through the different sections of the website.
 
 
 ### Available Scripts
