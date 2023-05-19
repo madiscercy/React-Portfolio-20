@@ -2,6 +2,12 @@ import React from 'react';
 
 const projects = [
 	{
+		name: 'Vitality Vault',
+		image: require('../../images/vitality-vault.png'),
+		deployedUrl: 'https://vitality-vault.herokuapp.com/',
+		repoUrl: 'https://github.com/csnyder94/vitality-vault',
+	},
+	{
 		name: 'Bits and Bytes',
 		image: require('../../images/bits-and-bytes.png'),
 		deployedUrl: 'https://bits-and-bytes.herokuapp.com/',
@@ -24,12 +30,6 @@ const projects = [
 		image: require('../../images/weather-dashboard.png'),
 		deployedUrl: 'https://madiscercy.github.io/Weather-Dashboard06/',
 		repoUrl: 'https://github.com/madiscercy/Weather-Dashboard06',
-	},
-	{
-		name: 'E-commerce',
-		image: require('../../images/e-commerce.png'),
-		deployedUrl: 'https://drive.google.com/file/d/1m3FZ3JD9BR4C4dxjSomOx3iI8lE1kWs3/view',
-		repoUrl: 'https://github.com/madiscercy/E-Commerce-Back-End-13',
 	},
 	{
 		name: 'Code Quiz',
